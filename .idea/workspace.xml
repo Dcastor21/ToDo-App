@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b539c844-649d-4efd-9d6d-16c816cf116d" name="Changes" comment="Day 17-addto button">
+    <list default="true" id="b539c844-649d-4efd-9d6d-16c816cf116d" name="Changes" comment="Day 18- implemented complete &amp; exit button">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/todos.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +193,31 @@
       <option name="project" value="LOCAL" />
       <updated>1711476456915</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Day 17-addto button">
+      <option name="closed" value="true" />
+      <created>1711476536386</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1711476536386</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Day 17- implemented edit button">
+      <option name="closed" value="true" />
+      <created>1711478317240</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1711478317240</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Day 18- implemented complete &amp; exit button">
+      <option name="closed" value="true" />
+      <created>1711569834285</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1711569834285</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,6 +238,8 @@
     <MESSAGE value="Day 13p2" />
     <MESSAGE value="Day 14" />
     <MESSAGE value="Day 17-addto button" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 17-addto button" />
+    <MESSAGE value="Day 17- implemented edit button" />
+    <MESSAGE value="Day 18- implemented complete &amp; exit button" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 18- implemented complete &amp; exit button" />
   </component>
 </project>
